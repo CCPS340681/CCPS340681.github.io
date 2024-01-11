@@ -1,21 +1,42 @@
-p {color:blue
-  } 
-p {color:yellow
-  } 
+<p>The world is full of fascinating places. Planning the perfect vacation involves packing up, leaving home, and experiencing something new.
+</p>
+<p>&mdash;Best of luck with your travels, and be sure to send pictures and stories. We'd love to hear them!
+</p>
+
 <ul>
   <li>Arctos</li>
-  <li>Collarus</li>
+  <li>Collarus</li>c
 </ul> 
+<ul>
+  <li>Museums</li>
+  <li>Bike Tours</li>
+  <li>Historical Monuments</li>
+</ul>
+
 <ol>
 <li>Russia</li>
 <li>United States</li>
 </ol>
-<h1>Species</h1>
-<header> 
-</header>
 
-{body}
-{/body} 
-{footer}
- {/footer} 
+<head>
+  <title>Vacation World</title>
+  <link href='style.css' rel='stylesheet'>
+</head>
+<head>
+  <title>The Rise of Soccer in The US</title>
+  <link href='style.css' rel='stylesheet'>
+  <link href='style-library.css' rel='stylesheet'>
+</head>
+
+<body>
+</body>
+
+<footer>
+      <p>Contact me at +1 234 567 8910 </p>
+    </footer>
+<footer>
+    <h3>Contact</h3>
+    <h3>Location</h3>
+    <h3>Privacy Policy</h3>
+  </footer>
 
